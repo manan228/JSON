@@ -1,0 +1,9 @@
+{
+  "name": "jsonforge-tools",
+  "version": "1.0.0",
+  "description": " A lightweight and efficient JSON utility for stringifying and parsing JSON data seamlessly. It provides a fast, safe, and customizable way to handle JSON transformations, ensuring optimal performance for web and backend applications.",
+  "main": "index.js",
+  "keywords": ["json", "parser", "stringify", "bigint"],
+  "author": "Manan Shah",
+  "license": "MIT"
+}
